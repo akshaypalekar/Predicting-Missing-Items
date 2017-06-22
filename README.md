@@ -1,2 +1,4 @@
 # Predicting-Missing-Items
 Ecommerce Website to predict missing items using Apriori Algorithm
+
+E-commerce websites today have become highly sensitive towards the end user’s needs. The data that is available on these websites is very systematically categorized so as to give the user a seamless experience. The technique that we are proposing takes into account the behavior of the user on the website. Whenever a specific user logs on to his or her account, their surfing history is logged. Apriori Algorithm is used to find the Association Rules which determine a pattern as to what the user’s preferences are. Whenever the client makes a purchase on the website the transaction is recorded and in time a user profile is generated as to what a specific user finds interesting on the website. So on the next visits on the webpage the user is given a more personalized experience.
